@@ -22,6 +22,4 @@ The app fetches live data from a weather API and displays temperature, humidity,
 - **JavaScript (ES6)** – Fetch API for dynamic data
 - **Weather API** – For live weather data use OpenWeather API 
 
----
 
-## 📂 Project Structure
